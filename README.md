@@ -7,3 +7,14 @@
 - 👯 I’m looking to collaborate on open Source projects
 - 🥅 2021 Goals: Seek new challenges in order to acquire experience and qualify myself professionally
 - ⚡ Fun fact: I'm an atlhete and magician 
+
+### Stats :
+
+![macario's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmacario&show_icons=true&theme=dark)
+
+
+
+
+
+
+
