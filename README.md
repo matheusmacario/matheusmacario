@@ -1,6 +1,6 @@
-# 😎 What's up !? 
+# 👋 What's up !? 
 
-## I'm Macario , a passionate Developer and Student 👋
+## I'm Macario , a passionate Developer and Student 😎
 
 - 🔭 I’m currently working on some projects for my portifolio
 - 📚 I’m currently learning everything i can 😄
