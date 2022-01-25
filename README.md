@@ -2,10 +2,10 @@
 
 ## 🇧🇷  I'm Macario , a passionate Developer and Student 😎 🇧🇷
 
-- 🔭 I’m currently working on some projects for my portifolio
+- 🔭 For now, i'm focused on a project from job
 - 📚 I’m currently learning everything i can 😄
 - 👯 I’m looking to collaborate on open Source projects
-- 🥅 2021 Goals: Seek new challenges in order to acquire experience and qualify myself professionally
+- 🥅 2022 Goals: Seek new challenges in order to acquire experience and qualify myself professionally
 - ⚡ Fun fact: I'm an atlhete and magician 
 
 ###  📫 Reache me out :
