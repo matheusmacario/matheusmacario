@@ -1,6 +1,6 @@
-# 🚀 Hi there!
+# 🚀 I'm Macario!
 
-## I'm Macario , a Data Analyst 🇧🇷
+##  Data Analyst 🇧🇷
 
 - 📊 Computer Engineer in data analysis field
 - 🛠️ Practical projects using SQL, Power BI and Python
