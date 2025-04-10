@@ -1,4 +1,4 @@
-# 🚀 I'm Macario!
+# 👨🏾‍💻 I'm Macario!
 
 ##  Data Analyst 🇧🇷
 
